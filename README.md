@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops roles
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email @fruchedes@gmail.com
+- 📫 How to reach me via email -fruchedes@gmail.com
 
 <!---
 Fruchedes/Fruchedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
