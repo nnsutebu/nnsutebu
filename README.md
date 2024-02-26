@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Fruchedes
-- 👀 I’m A Passionate Multi-Cloud Architect and DevOps Engineer
-Terraform Open Source Ref Architecture Documentation Azure DevOps Ansible Apache Maven PostMan Git Linux GitHub Json GitLab Flask Docker Kubernetes Selenium Prom MySQL Jenkins Rancher Python ApacheGroovy Oracle VS Jira Bitbucket Sonarqube Gradle Splunk Synk Puppet Shelscript Junit5 Circleci TravisCI Apache Markdown PHP VMWare Istio Redis ArgoCD Helm TeamCity SonaCloud
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+🌱 I’m currently growing my expertise on Azure, IBM and Next Generation Automation
+
+👯 I’m looking to collaborate on GitHub
+
+🤝 I’m willing and happy to Help anytime
+
+👨‍💻 You can find some of my projects here on GitHub
+
+💬 Ask me about AWS, GCP, Azure, DevOps
 - 📫 How to reach me via email -fruchedes@gmail.com
 
 <!---
