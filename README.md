@@ -8,6 +8,6 @@
 👨‍💻 You can find some of my projects here on GitHub
 
 💬 Ask me about AWS, GCP, Azure, DevOps
-- 📫 How to reach me via email -fruchedes@gmail.com
+
 
 
