@@ -1,10 +1,10 @@
 <h1 align="center">Hey Everyone 👋, I'm Edwin Ken </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/044705e9-5e97-4e5b-b29d-12dea2c24530" alt="Edwin Banner">
+  <img src="https://github.com/user-attachments/assets/ba1367f7-8a1a-4fc7-a66e-84d900c23393" alt="Edwin Banner">
 </div>
 
-<h3 align="center"> I am Security and Compliance Engineer with over 9 years of experience with a  background in IT Security compliance audits,  Devops, DevsecOps, GRC, IT compliance audits, Cloud security operations, Cloud governance, DevsecOps, Vendor risk management, Control assessment, and Enterprise Risk Management. Expertise in AWS/Azure, integrating security solution workflows across SDLC, DevsecOps pipelines, Observability, SIEM, SOAR, EDR, Threat detection, IPS/IDS, Automation, and Incident response toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure), supported client initiatives in achieving and maintaining SOC 2, PCI DSS, and ISO 27001 certifications. Proficient in conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Policy/SOP development, Control testing, Vulnerability management, Process improvement, Vendor due diligence and Audit planning.</a></h3>
+<h3 align="center"> A Security and Compliance Engineer with over 9 years of experience with a  background in IT Security compliance audits,  Devops, DevsecOps, GRC, IT compliance audits, Cloud security operations, Cloud governance, DevsecOps, Vendor risk management, Control assessment, and Enterprise Risk Management. Expertise in AWS/Azure, integrating security solution workflows across SDLC, DevsecOps pipelines, Observability, SIEM, SOAR, EDR, Threat detection, IPS/IDS, Automation, and Incident response toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure), supported client initiatives in achieving and maintaining SOC 2, PCI DSS, and ISO 27001 certifications. Proficient in conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Policy/SOP development, Control testing, Vulnerability management, Process improvement, Vendor due diligence and Audit planning.</a></h3>
 
 <p align="center">
   <a href="https://github.com/nnsutebu">
