@@ -25,8 +25,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at (https://github.com/nnsutebu?tab=repositories)  
-- 💬 Ask me about **SOC 2, ISO 27001, GDPR, NIST SP 800-53A, Kubernetes, Cloud security posture assessment, TableTop exercises,  Third party risk management, DevOps & DevsecOps**  
-- 📫 How to reach me **edwinknn@gmail.com**
+- 💬 Ask me about **SOC 2, ISO 27001, PCI DSS, GDPR, NIST SP 800-53A, Kubernetes, Cloud Security Posture Assessment, TableTop exercises, Third Party Risk Management, DevOps & DevsecOps**  
+- 📫 How to reach me **edwinknne@gmail.com**
 
 ---
 
