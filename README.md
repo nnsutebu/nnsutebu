@@ -7,14 +7,14 @@
 <h3 align="center"> I am Security and Compliance Engineer with over 9 years of experience with a  background in IT Security compliance audits,  Devops, DevsecOps, GRC, IT compliance audits, Cloud security operations, Cloud governance, DevsecOps, Vendor risk management, Control assessment, and Enterprise Risk Management. Expertise in AWS/Azure, integrating security solution workflows across SDLC, DevsecOps pipelines, Observability, SIEM, SOAR, EDR, Threat detection, IPS/IDS, Automation, and Incident response toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure), supported client initiatives in achieving and maintaining SOC 2, PCI DSS, and ISO 27001 certifications. Proficient in conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Policy/SOP development, Control testing, Vulnerability management, Process improvement, Vendor due diligence and Audit planning.</a></h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/nnsutebu">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/edwin-k-528064241">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/edwin-k-528064241">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Edwin%20ken-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
@@ -24,9 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 👨‍💻 All of my projects are available at (https://github.com/nnsutebu?tab=repositories)  
+- 💬 Ask me about **SOC 2, ISO 27001, GDPR, NIST SP 800-53A, Kubernetes, Cloud security posture assessment, TableTop exercises,  Third party risk management, DevOps & DevsecOps**  
+- 📫 How to reach me **edwinknn@gmail.com**
 
 ---
 
@@ -34,7 +34,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/edwin-k-528064241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
@@ -61,11 +61,9 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnsutebu&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nnsutebu&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 ---
 ### 🔥 GitHub Contribution Streak
 
@@ -74,15 +72,10 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nnsutebu&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
