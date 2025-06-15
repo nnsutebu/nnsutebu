@@ -1,10 +1,10 @@
 <h1 align="center">Hey Everyone 👋, I'm Edwin Ken </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba1367f7-8a1a-4fc7-a66e-84d900c23393" alt="Edwin Banner">
+  <img src="" alt="Edwin Banner">
 </div>
 
-<h3 align="center"> A Security and Compliance Engineer with over 9 years of experience with a  background in IT Security compliance audits,  Devops, DevsecOps, GRC, IT compliance audits, Cloud security operations, Cloud governance, DevsecOps, Vendor risk management, Control assessment, and Enterprise Risk Management. Expertise in AWS/Azure, integrating security solution workflows across SDLC, DevsecOps pipelines, Observability, SIEM, SOAR, EDR, Threat detection, IPS/IDS, Automation, and Incident response toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure), supported client initiatives in achieving and maintaining SOC 2, PCI DSS, and ISO 27001 certifications. Proficient in conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Policy/SOP development, Control testing, Vulnerability management, Process improvement, Vendor due diligence and Audit planning.</a></h3>
+<h3 align="center"> Experienced DevOps/SRE and Compliance Engineer with over 7 years of experience with a strong background in  Observability solution alignment with business KPIs, SLAs, SLOs, Cloud security operations, Cloud governance, DevsecOps, IT compliance audits, GRC, Vendor risk management, Control assessment, and Risk Management. Expertise in AWS/Azure, implementing custom cost effective workflows across SDLC, DevsecOps, Kubernetes, Observability, SIEM, EDR, IAM, IPS/IDS, Automation and Cloud native toolsets. Served as a Subject Matter Expert for cloud audits(AWS/Azure), supporting client initiatives in achieving and maintaining SOX, SOC 2, PCI DSS and ISO 27001 certifications. Proficient in  managing cloud infrastructure, optimizing logging, monitoring, tracing solutions, conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Vulnerability management, Policy/SOP development, incident response, Control testing, Vendor due diligence and Audit planning. Adept at collaborating across multiple lines of defense, delivering strategic initiatives in compliance with frameworks like NIST CSF 2.0, ISO 27001, COBIT, COSO, FAIR whilst ensuring adherence to regulations like CIS benchmarks, PCI-DSS, NIST SP 800-53, GDPR, CCPA/CPRA,  HIPAA. .</a></h3>
 
 <p align="center">
   <a href="https://github.com/nnsutebu">
