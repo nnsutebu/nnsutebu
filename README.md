@@ -1,10 +1,11 @@
-<h1 align="center">Hey Everyone 👋, I'm Edwin Ken </h1>
+<h1 align="center">Hey Everyone 👋,  </h1>
 
 <div align="center">
   <img src="" alt="Edwin Banner">
 </div>
 
-<h3 align="center"> Experienced DevOps/SRE and Compliance Engineer with over 7 years of experience with a strong background in  Observability solution alignment with business KPIs, SLAs, SLOs, Cloud security operations, Cloud governance, DevsecOps, IT compliance audits, GRC, Vendor risk management, Control assessment, and Risk Management. Expertise in AWS/Azure, implementing custom cost effective workflows across SDLC, DevsecOps, Kubernetes, Observability, SIEM, EDR, IAM, IPS/IDS, Automation and Cloud native toolsets. Served as a Subject Matter Expert for cloud audits(AWS/Azure), supporting client initiatives in achieving and maintaining SOX, SOC 2, PCI DSS and ISO 27001 certifications. Proficient in  managing cloud infrastructure, optimizing logging, monitoring, tracing solutions, conducting risk assessments (CSPM, DSPM, IAM, SAAS), Tabletop exercises, Vulnerability management, Policy/SOP development, incident response, Control testing, Vendor due diligence and Audit planning. Adept at collaborating across multiple lines of defense, delivering strategic initiatives in compliance with frameworks like NIST CSF 2.0, ISO 27001, COBIT, COSO, FAIR whilst ensuring adherence to regulations like CIS benchmarks, PCI-DSS, NIST SP 800-53, GDPR, CCPA/CPRA,  HIPAA. .</a></h3>
+<h3 align="center"> Experienced Security Compliance Analyst with over 7 years of experience in Cloud/application security, Vulnerability Management, IT Compliance audits, Third Party Risk Management, SOC Operations, Observability Solution alignment with business KPIs, SLAs, SLOs, DevsecOps. Skilled in designing, implementing complex controls, automation, cost effective workflows across SDLC, Kubernetes, SIEM, EDR, IAM, Email, Malware, IPS/IDS, and Cloud native toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure/Oracle), supporting SOC 2, SOX ITGC, and ISO 27001 certifications. Proficient in
+SOP/Policy development, conducting security risk assessments(SSPM, CSPM, DSSM, PIA, DPIA), security toolset configuration, mitigating risk, alert triage, managing DSARs, RoPA registers, FOIA responses, tabletop exercises, and optimizing alerting to reduce MTTR/MTTD. Adept at collaborating across multiple lines of defense, delivering strategic initiatives in compliance with frameworks like NIST CSF 2.0, IS.</a></h3>
 
 <p align="center">
   <a href="https://github.com/nnsutebu">
