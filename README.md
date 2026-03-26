@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋,  </h1>
 
 <div align="center">
-  <img src="" alt="Edwin Banner">
+  <img src="" alt="">
 </div>
 
 <h3 align="center"> Experienced Information security compliance Analyst with over 9 years of experience in Cloud/application security, Vulnerability Management, IT Compliance audits, Third Party Risk Management, SOC Operations, Observability Solution alignment with business KPIs, SLAs, SLOs, DevsecOps. Skilled in designing, implementing complex controls, automation, cost effective workflows across SDLC, Kubernetes, SIEM, EDR, IAM, Email, Malware, IPS/IDS, and Cloud native toolsets. Served as a Subject Matter Expert, leading cloud audits(AWS/Azure/Oracle), supporting SOC 2, SOX ITGC, and ISO 27001 certifications. Proficient in
@@ -26,7 +26,7 @@ SOP/Policy development, conducting security risk assessments(SSPM, CSPM, DSSM, P
 </p>
 
 - 👨‍💻 All of my projects are available at (https://github.com/nnsutebu?tab=repositories)  
-- 💬 Ask me about **SOC 2, ISO 27001, PCI DSS, GDPR, NIST SP 800-53A, Kubernetes, Cloud Security Posture Assessment, TableTop exercises, Third Party Risk Management, DevOps & DevsecOps**  
+- 💬 Ask me about **SOX ITGC, SOC 2, ISO 27001, PCI DSS, GDPR, NIST SP 800-53A, Kubernetes, Cloud Security Posture Assessment, TableTop exercises, Third Party Risk Management, DevOps & DevsecOps**  
 - 📫 How to reach me **edwinknne@gmail.com**
 
 ---
